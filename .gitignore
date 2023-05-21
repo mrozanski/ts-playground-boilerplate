@@ -1,0 +1,11 @@
+# production
+/build
+
+# dependencies
+/node_modules
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+*.code-workspace
